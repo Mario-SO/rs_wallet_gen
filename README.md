@@ -8,7 +8,6 @@ Welcome to the Ethereum Wallet Generator in Rust! This project is all about crea
 
 - **Generate Ethereum Wallets**: Create your own Ethereum wallet with a private and public key pair. 🔐
 - **Keccak-256 Hashing**: Utilize the power of Keccak-256 for public key hashing. 🧮
-- **Rust Programming**: Experience the robustness of Rust. Fast, reliable, and secure! 🦀
 
 ## Getting Started 🏁
 
